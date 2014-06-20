@@ -1,0 +1,9 @@
+Before using a wireless player with Bluetooth(r), you will need to establish a connection between it and your Naxa device. This process is called "pairing" and you will only have to do it once. Once two devices are paired, they will automatically connect when they detect each other.
+
+Wireless players with Bluetooth may include laptops, tablets, smartphones, and more. Make sure that your player has its Bluetooth radio enabled and that it is set to be discoverable.
+
+...
+
+Antes de usar un reproductor inalámbrico con Bluetooth(r), se requiere establecer conexión entre el reproductor y la unidad de Naxa. Este proceso es llamado “pairing" (o "sincronía") y solo se requiere hacerlo una vez. Una vez que los dos dispositivos están sincronizados, estos se conectan automáticamente cuando se detectan cada uno.
+
+Reproductores inalámbricos con función de Bluetooth pueden ser Computadoras personales, Tabletas electrónicas, Teléfonos inteligentes y más. Asegurarse que el reproductor tiene la función de Bluetooth habilitada y que esta ajustado para el modo de búsqueda.
