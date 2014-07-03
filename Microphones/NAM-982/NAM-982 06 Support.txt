@@ -1,0 +1,17 @@
+# Support
+
+If you have problems with your device, please consult the instructions
+in this manual. Please also visit us on the web at [www.naxa.com][] to
+get up to the minute news, alerts, and documentation for your device.
+For additional assistance, please contact Naxa Technical Support.
+
+**NAXA Technical Support**
+
+2320 East 49th St.
+
+Vernon, CA 90058
+
+[http://www.naxa.com/naxa\_support/][]
+
+  [www.naxa.com]: www.naxa.com
+  [http://www.naxa.com/naxa\_support/]: www.naxa.com/naxa_support

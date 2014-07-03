@@ -23,28 +23,27 @@ Your microphone can be connected to systems with:
 1.  Load one "AA" battery into the battery compartment found on the back
     of the wireless receiver.
 
-<!-- -->
-
+<!-- 
     Make sure to match the polarity marked inside the battery compartment.
+-->
 
-1.  Turn the wireless receiver on and extend its antenna.
+2.  Turn the wireless receiver on and extend its antenna.
 
-2.  Connect the 1/4" plug of the wireless receiver to a speaker system
+3.  Connect the 1/4" plug of the wireless receiver to a speaker system
     input (or use the included 1/8" plug adapter).
 
-3.  Twist and unscrew the bottom half of the microphone clockwise to
+4.  Twist and unscrew the bottom half of the microphone clockwise to
     reveal the battery compartment. Load one "AA" battery into the
     microphone, then screw the bottom back on.
 
-<!-- -->
-
+<!-- 
     Disconnect the cable from the microphone before opening the microphone. Failure to do so will damage the microphone.
 
     Make sure to match the polarity marked inside the battery compartment.
-
-1.  Connect the antenna adapter to the bottom of the microphone. (Align
+-->
+5.  Connect the antenna adapter to the bottom of the microphone. (Align
     the arrow on the antenna with the switch on the microphone.)
 
-2.  Set the switch on the microphone to the ON position.
+6.  Set the switch on the microphone to the ON position.
 
 

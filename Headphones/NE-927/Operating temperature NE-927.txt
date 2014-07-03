@@ -1,0 +1,4 @@
+Only operate the device when the environmental temperature is between
+-15 and 55 degrees C (5 and 131 degrees F). Extreme temperatures will
+shorten the lifespan of battery.
+

@@ -1,0 +1,7 @@
+# Placing Your Microphone
+
+The optimal position for your microphone relative to the sound source
+depends on a few factors, but it is mostly a matter of trial and error.
+Experiment with different distances and positions to see which sounds
+best, but keep the following things in mind.
+

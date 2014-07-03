@@ -1,0 +1,127 @@
+# Thank You
+
+We know you have many choices when it comes to technology; thank you for
+choosing us here at Naxa Electronics. Established in 2001 in Los
+Angeles, California, we are dedicated to delivering products that
+entertain and delight.
+
+We trust that you will be happy with your purchase. Please read this
+manual carefully and save it for reference. You may also find the latest
+FAQ, documentation, and other product material at our website. Come
+visit us at [www.naxa.com][] and see all that we have to offer!
+
+# In the Box
+
+-   Microphone
+
+-   Antenna adapter
+
+-   Wireless receiver
+
+-   Cable (1/4" to XLR)
+
+-   1/4" to 1/8" adapter
+
+# How to Connect
+
+To start using your microphone, connect it to the input of a speaker
+system or amplifier.
+
+Your microphone can be connected to systems with:
+
+-   1/4" input
+
+-   1/8" input (with the included adapter)
+
+## Wired Connection
+
+1.  Connect the XLR end of the cable to the bottom of the microphone.
+
+2.  Connect the 1/4" end of the cable to a speaker system input (or use
+    the included 1/8" plug adapter).
+
+3.  Set the switch on the microphone to the "MIC" position.
+
+## Wireless Connection
+
+1.  Load one "AA" battery into the battery compartment found on the back
+    of the wireless receiver.
+
+<!-- 
+    Make sure to match the polarity marked inside the battery compartment.
+-->
+
+2.  Turn the wireless receiver on and extend its antenna.
+
+3.  Connect the 1/4" plug of the wireless receiver to a speaker system
+    input (or use the included 1/8" plug adapter).
+
+4.  Twist and unscrew the bottom half of the microphone clockwise to
+    reveal the battery compartment. Load one "AA" battery into the
+    microphone, then screw the bottom back on.
+
+<!-- 
+    Disconnect the cable from the microphone before opening the microphone. Failure to do so will damage the microphone.
+
+    Make sure to match the polarity marked inside the battery compartment.
+-->
+5.  Connect the antenna adapter to the bottom of the microphone. (Align
+    the arrow on the antenna with the switch on the microphone.)
+
+6.  Set the switch on the microphone to the ON position.
+
+# Placing Your Microphone
+
+The optimal position for your microphone relative to the sound source
+depends on a few factors, but it is mostly a matter of trial and error.
+Experiment with different distances and positions to see which sounds
+best, but keep the following things in mind.
+
+## Cardioid
+
+-   Cardioid microphones are more sensitive to sounds that are in front
+    of it. Sounds from behind the microphone will be slightly muted.
+    Cardioid microphones are great for vocal or speech recording.
+
+-   When using a microphone for vocal or speech work, the closer you are
+    to the microphone the more likely it will pick up "plosives" when
+    recording. Consider placing a pop filter between the speaker and the
+    microphone.
+
+# Specifications
+
++-----------------------+-----------------------+
+| Sensitivity           | -72 ± 3 dB            |
++-----------------------+-----------------------+
+| Frequency             | 50-18,000 Hz          |
++-----------------------+-----------------------+
+| Output impedance      | 600Ω                  |
++-----------------------+-----------------------+
+| Operation voltage     | DC 1.5V or DC 3V      |
++-----------------------+-----------------------+
+| Effective distance    | 15-30 m               |
++-----------------------+-----------------------+
+| Cable length          | 5.03 m (16.5')        |
++-----------------------+-----------------------+
+| Cable plug            | 6.3 mm (1/4")         |
++-----------------------+-----------------------+
+| Adapter plug          | 3.5 mm (1/8")         |
++-----------------------+-----------------------+
+
+# Support
+
+If you have problems with your device, please consult the instructions
+in this manual. Please also visit us on the web at [www.naxa.com][] to
+get up to the minute news, alerts, and documentation for your device.
+For additional assistance, please contact Naxa Technical Support.
+
+**NAXA Technical Support**
+
+2320 East 49th St.
+
+Vernon, CA 90058
+
+[http://www.naxa.com/naxa\_support/][]
+
+  [www.naxa.com]: www.naxa.com
+  [http://www.naxa.com/naxa\_support/]: www.naxa.com/naxa_support

@@ -1,0 +1,20 @@
+- The device will not turn on.
+
+Please ensure that the power plug is securely connected.
+
+- The device does not detect the SD card or USB drive.
+
+Please ensure that there is a card or USB drive installed, and that it
+contains readable photo files. Empty cards and drives cannot be read.
+
+- The device cannot play the file.
+
+Please confirm that the file is compatible with the player. Refer to the
+device specifications for more information.
+
+- The display is too bright, too dark, the color is faded, or there is
+no color.
+
+Please adjust the display brightness, contrast, and color in the setup
+menu. Avoid viewing in direct sunlight or in very bright environments.
+

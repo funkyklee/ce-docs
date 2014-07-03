@@ -1,0 +1,4 @@
+Turn off the unit before loading or removing an SD card or USB device.
+Failure to do so may damage the card or USB device, the unit, or cause
+loss of information.
+
