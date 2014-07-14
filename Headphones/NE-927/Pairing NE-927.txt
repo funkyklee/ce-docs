@@ -1,0 +1,45 @@
+Before using a wireless player with Bluetooth(r), you will need to
+establish a connection between it and your Naxa device. This process is
+called "pairing" and you will only have to do it once. Once two devices
+are paired, they will automatically connect when they detect each other.
+
+Wireless players with Bluetooth may include smartphones, tablets,
+laptops, and more. Make sure that your player has its Bluetooth radio
+enabled and that it is set to be discoverable.
+
+To pair a player with your Naxa headphones:
+
+-   Place your headphones in pairing mode: hold [MFB] until the Status
+    indicator starts flashing blue and green. The NE-927 is broadcasting
+    a short-range pairing signal.
+
+-   Find the pairing signal: Use the player to search for available
+    devices (refer to the player's manual to learn how to do this).
+    Choose the NE-927.
+
+-   If the player asks, use the passcode "0000".
+
+-   The status indicator will slowly flash blue when pairing is
+    complete.
+
+Tip: Your headphones can connect to more than one device at a time. This
+may be useful if you want to be ready to take calls from a cellphone and
+listen to music on another device.
+
+To connect to other devices: 1) temporarily disable Bluetooth on the
+first device; 2) Pair the second device; 3) Enable Bluetooth on the
+first device again and connect it to the headphones.
+
+...
+
+Antes de usar un reproductor inalámbrico con Bluetooth(r), se requiere
+establecer conexión entre el reproductor y la unidad de Naxa. Este
+proceso es llamado “pairing" (o "sincronía") y solo se requiere hacerlo
+una vez. Una vez que los dos dispositivos están sincronizados, estos se
+conectan automáticamente cuando se detectan cada uno.
+
+Reproductores inalámbricos con función de Bluetooth pueden ser teléfonos
+inteligentes, computadoras personales, tabletas electrónicas, y más.
+Asegurarse que el reproductor tiene la función de Bluetooth habilitada y
+que esta ajustado para el modo de búsqueda.
+
