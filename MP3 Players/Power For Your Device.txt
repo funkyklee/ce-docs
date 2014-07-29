@@ -1,0 +1,25 @@
+Power For Your Device
+
+[RECHARGEABLE BATTERIES]
+Your device contains a rechargeable lithium ion battery. Give it a full charge before using your device for the first time. This can help your battery's performance and lifespan.
+
+Use the included USB cable to charge your device from any USB port on a computer. You may also use the included cable to charge your device with a USB power adapter (optional). When using a power adapter, make sure that its rated output matches your device. (Please refer to the Specifications section for your device's Power rating.)
+
+Tips: All rechargeable batteries have a fixed amount of charge/discharge cycles. Observe the following to ensure the best performance from your battery.
+- Charge batteries at normal room temperature. Charging a battery at high or very low temperatures will shorten its lifespan.
+- Avoid using or storing your device in high temperatures.
+- Avoid leaving your device plugged in. Continually charging a battery when it is full will shorten its lifespan.
+- Avoid discharging the battery completely.
+- All rechargeable batteries will discharge slowly over time even not in use. If your device will be inactive for a long time, consider charging it periodically.
+
+
+----------------------------------------------------------------
+
+[ALKALINE BATTERIES]
+Your device requires [#] [SIZE] batteries. Take care to match the polarity markings in the battery compartment when you are installing batteries. If the device has a battery level indicator, replace the batteries as directed. Otherwise, replace the batteries when you notice the device's performance worsening.
+
+Tips:
+- Replace all batteries at once. Do not mix old and new batteries.
+- Use the same type of batteries. Do not mix batteries with different voltages or different chemistry types (e.g., alkaline, nickel-metal hydride, lithium).
+- For rechargeable batteries, use batteries that are fully charged. Do not mix partially charged batteries.
+- Never charge batteries that are not meant to be charged.

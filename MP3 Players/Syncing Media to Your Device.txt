@@ -1,0 +1,44 @@
+Syncing Media to Your Player
+To start enjoying media on your player, you will need to transfer the media files from a computer to your player.  
+
+There are many ways to get your favorite media in a digital format. The most convenient way is to purchase and download them from the Internet onto your computer. From your computer, you can sync these media files to your device for playback.
+
+Info: A few popular stores that sell digital music are Amazon http://www.amazon.com/MP3) and Google Play (http://play.google.com/store/music). Some stores may also offer free downloads of singles from up-and-coming artists!
+A few stores may offer downloads in different digital formats. MP3 is the most popular format and is guaranteed to work on all players. If you choose an alternate format, please review the specifications of your device to make sure that your device supports it.
+
+Now that you have media files on your computer, you will need to sync them to your player. You can either use your computer's standard file browser to manually copy the files to your player, or use a software program to organize and sync the files to your player. These media manager programs are included with most modern computers.  
+
+If your media files are on a computer running the Microsoft Windows operating system:
+Windows Media Player is included with the Windows operating system. 
+- Connect your player to a computer. Turn your player on and plug the small end of the included USB cable into its micro USB port; plug the larger end into the computer's USB port.
+
+- Start Windows Media Player. Click the Start button and then type "Windows Media Player" in the Search box. Press Enter. 
+
+Windows Media Player organizes the media files on your computer and displays them prominently on the left side of the program window. It will also detect your player and display it in a small panel on the right side of the window.
+
+[screen capture]
+
+
+- Find and select media. Use your mouse to select the media that you want to sync. 
+
+- Add media to the sync list. Use your mouse to drag the selected media to the player panel. 
+
+- Sync the media to your player. When you have finished adding media to the sync list, click the "Start sync" button found at the top of the player panel. DO NOT DISCONNECT THE PLAYER DURING THE SYNC PROCESS. Windows Media Player will indicate when the sync is complete. You may now disconnect the player.
+
+Info: Press "F1" on the keyboard to get help with Windows Media Player, or visit the Microsoft Windows website to learn more: http://windows.microsoft.com/en-us/windows/media-player-help/.
+
+
+
+If your media files are on a computer running the Mac OS X operating system:
+iTunes is included with the Mac OS X operating system. You can use iTunes to manage and browse your media, but it does not have the ability to sync with standard USB devices. However, you can use it to find the files you want, and then copy them to your player.
+- Connect your player to a computer. Turn your player on and plug the small end of the included USB cable into its micro USB port; plug the larger end into the computer's USB port.
+- Start iTunes. Click on the iTunes icon in the system dock.
+[screen capture]
+- Find and select media. iTunes organizes and displays the media on your computer. Use the mouse to select media that you want to copy to the player, then press Command-C (copy) on the keyboard.
+- Open a new Finder window. Click on the Finder icon in the system dock. 
+- Browse your player's folder. Find your player in the left panel and then click on it.
+- Transfer the media files to your player. Press Command-V (paste) on the keyboard to copy the selected media from your computer to your player. 
+
+
+Info: Although you can use iTunes to manage and copy files, there are a number of other software programs that will sync with standard USB devices. These programs are available for download from the Internet for free or for a fee.
+
